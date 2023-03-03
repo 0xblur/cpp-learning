@@ -32,5 +32,7 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "editor.fontSize": 22,
+  "editor.tabSize": 2
 }
